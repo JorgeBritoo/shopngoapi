@@ -1,5 +1,4 @@
-{
-  "Items": [
+[
     {
       "Name": "Crush Orange",
       "Notes": "20 FL OZ - 591 mL",
@@ -60,6 +59,4 @@
       "Price": "2.99",
       "UPC" : "813267020007"
     }
-    
-  ]
-}
+ ]   
