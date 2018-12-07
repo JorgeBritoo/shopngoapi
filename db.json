@@ -1,5 +1,5 @@
-{
-  "Items": [{
+
+  [{
       "id": 1,
       "Name": "Crush Orange",
       "Notes": "20 FL OZ - 591 mL",
@@ -71,4 +71,3 @@
     }
 
   ]
-}
