@@ -1,64 +1,74 @@
 {
   "Items": [
     {
+      "id" :1,
       "Name": "Crush Orange",
       "Notes": "20 FL OZ - 591 mL",
       "Price": "1.99",
-      "UPC" : "078000013283"
+      "UPC" : 078000013283
     },
     {
+      "id" :2,
       "Name": "Doritos Spicy Sweet Chili",
       "Notes": "1 3/4 OZ (49.6g)",
       "Price": "1.50",
-      "UPC" : "028400069311"
+      "UPC" : 028400069311
     },
     {
+      "id" :3,
       "Name": "Pepsi",
       "Notes": "0 FL OZ - 591 mL",
       "Price": "1.99",
-      "UPC" : "078000013283"
+      "UPC" : 078000013283
     },
     {
+      "id" :4,
       "Name": "Cream Cheese",
       "Notes": "Dips & Spreads",
       "Price": "1.99",
-      "UPC" : "049568540085"
+      "UPC" : 049568540085
     },
     {
+      "id" :5,
       "Name": "La Yogurt  Greek Yogurt 2%, Blueberry on the bottom ",
       "Notes": "5.3 oz, Meat,Seafood & Eggs",
       "Price": "5.99",
-      "UPC" : "053600106627"
+      "UPC" : 053600106627
     },
     {
+      "id" :6,
       "Name": "Doritos Taco Explosion Mix",
       "Notes": "Snack Foods, Chips",
       "Price": "2.99",
-      "UPC" : "028400642651"
+      "UPC" : 028400642651
     },
     {
+      "id" :7,
       "Name": "Doritos Taco Explosion Mix",
       "Notes": "Snack Foods, Chips",
       "Price": "2.99",
-      "UPC" : "028400642651"
+      "UPC" : 028400642651
     },
     {
+      "id" :8,
       "Name": "Vanilla Coke ",
       "Notes": "12 pack, 355ml",
       "Price": "3.99",
-      "UPC" : "049776369867"
+      "UPC" : 049776369867
     },
     {
+      "id" :9,
       "Name": "Mini Oreo Cookies",
       "Notes": "42g, Snack",
       "Price": "1.99",
-      "UPC" : "721865737404"
+      "UPC" : 721865737404
     },
     {
+      "id" :10,
       "Name": "Whole Milk",
       "Notes": "Beverages",
       "Price": "2.99",
-      "UPC" : "813267020007"
+      "UPC" : 813267020007
     }
     
   ]
