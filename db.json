@@ -1,4 +1,5 @@
-[
+{
+  "Items": [
     {
       "Name": "Crush Orange",
       "Notes": "20 FL OZ - 591 mL",
@@ -28,5 +29,37 @@
       "Notes": "5.3 oz, Meat,Seafood & Eggs",
       "Price": "5.99",
       "UPC" : "053600106627"
+    },
+    {
+      "Name": "Doritos Taco Explosion Mix",
+      "Notes": "Snack Foods, Chips",
+      "Price": "2.99",
+      "UPC" : "028400642651"
+    },
+    {
+      "Name": "Doritos Taco Explosion Mix",
+      "Notes": "Snack Foods, Chips",
+      "Price": "2.99",
+      "UPC" : "028400642651"
+    },
+    {
+      "Name": "Vanilla Coke ",
+      "Notes": "12 pack, 355ml",
+      "Price": "3.99",
+      "UPC" : "049776369867"
+    },
+    {
+      "Name": "Mini Oreo Cookies",
+      "Notes": "42g, Snack",
+      "Price": "1.99",
+      "UPC" : "721865737404"
+    },
+    {
+      "Name": "Whole Milk",
+      "Notes": "Beverages",
+      "Price": "2.99",
+      "UPC" : "813267020007"
     }
- ]   
+    
+  ]
+}
