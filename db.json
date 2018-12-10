@@ -9,7 +9,7 @@
     {
       "id": 2,
       "Name": "Sprite",
-      "Notes": "1 3/4 OZ (49.6g)",
+      "Notes": "Soda",
       "Price": "1.50",
       "UPC": "04976400"
     },
@@ -23,7 +23,7 @@
     {
       "id": 4,
       "Name": "Hot Cheetos",
-      "Notes": "Dips & Spreads",
+      "Notes": "Chips",
       "Price": "1.99",
       "UPC": "028400589895"
     },
